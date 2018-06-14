@@ -1,9 +1,9 @@
 var config = {};
 
 // url to analyze
-config.url = "https://www.bradyplc.com";
+config.url = "";
 // file path to export the results (json format)
-config.outputPath = "./output.txt";
+config.outputPath = "";
 // level max - depth of the recursive call
 config.levelMax = 1;
 
